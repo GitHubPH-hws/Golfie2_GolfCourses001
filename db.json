@@ -7,5 +7,20 @@
      "longitudeDelta": 0.01,
      "selectedHole": 0,
      "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.22,
+               "longitude": 4.71
+          },
+          {
+               "number": 2,
+               "latitude": 52.23,
+               "longitude": 4.72
+          },
+          {
+               "number": 3,
+               "latitude": 52.24,
+               "longitude": 4.73
+          }
      ]
 }
