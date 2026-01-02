@@ -1,0 +1,56 @@
+{
+     "name": "Warmond, Golfclub Kagerzoom",
+     "isSelected": "N",
+     "latitude": 52.18684,
+     "longitude": 4.50744,
+     "latitudeDelta": 0.01011,
+     "longitudeDelta": 0.01230,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.18529,
+               "longitude": 4.50871
+          },
+          {
+               "number": 2,
+               "latitude": 52.18457,
+               "longitude": 4.51059
+          },
+          {
+               "number": 3,
+               "latitude": 52.18555,
+               "longitude": 4.50325
+          },
+          {
+               "number": 4,
+               "latitude": 52.18474,
+               "longitude": 4.50206
+          },
+          {
+               "number": 5,
+               "latitude": 52.18417,
+               "longitude": 4.50878
+          },
+          {
+               "number": 6,
+               "latitude": 52.18501,
+               "longitude": 4.51276
+          },
+          {
+               "number": 7,
+               "latitude": 52.18513,
+               "longitude": 4.51090
+          },
+          {
+               "number": 8,
+               "latitude": 52.18651,
+               "longitude": 4.50658
+          },
+          {
+               "number": 9,
+               "latitude": 52.1865,
+               "longitude": 4.50415
+          }
+     ]
+}
