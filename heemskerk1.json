@@ -1,0 +1,56 @@
+{
+     "name": "Heemskerkse Golfclub, par 3",
+     "isSelected": "N",
+     "latitude": 52.49559,
+     "longitude": 4.71515,
+     "latitudeDelta": 0.00525,
+     "longitudeDelta": 0.00643,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.49584,
+               "longitude": 4.71455
+          },
+          {
+               "number": 2,
+               "latitude": 52.49511,
+               "longitude": 4.71748
+          },
+          {
+               "number": 3,
+               "latitude": 52.49488,
+               "longitude": 4.71785
+          },
+          {
+               "number": 4,
+               "latitude": 52.49394,
+               "longitude": 4.71516
+          },
+          {
+               "number": 5,
+               "latitude": 52.49460,
+               "longitude": 4.71411
+          },
+          {
+               "number": 6,
+               "latitude": 52.49462,
+               "longitude": 4.71600
+          },
+          {
+               "number": 7,
+               "latitude": 52.49528,
+               "longitude": 4.71567
+          },
+          {
+               "number": 8,
+               "latitude": 52.49502,
+               "longitude": 4.71354
+          },
+          {
+               "number": 9,
+               "latitude": 52.49624,
+               "longitude": 4.71249
+          }
+     ]
+}
