@@ -1,0 +1,101 @@
+{
+     "name": "Heemskerkse Golfclub, 18 holes",
+     "isSelected": "N",
+     "latitude": 52.49211,
+     "longitude": 4.70746,
+     "latitudeDelta": 0.01137,
+     "longitudeDelta": 0.01393,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.49340,
+               "longitude": 4.71385
+          },
+          {
+               "number": 2,
+               "latitude": 52.49069,
+               "longitude": 4.71094
+          },
+          {
+               "number": 3,
+               "latitude": 52.48718,
+               "longitude": 4.70744
+          },
+          {
+               "number": 4,
+               "latitude": 52.48789,
+               "longitude": 4.70399
+          },
+          {
+               "number": 5,
+               "latitude": 52.48845,
+               "longitude": 4.70669
+          },
+          {
+               "number": 6,
+               "latitude": 52.49016,
+               "longitude": 4.70105
+          },
+          {
+               "number": 7,
+               "latitude": 52.49294,
+               "longitude": 4.70394
+          },
+          {
+               "number": 8,
+               "latitude": 52.49345,
+               "longitude": 4.70513
+          },
+          {
+               "number": 9,
+               "latitude": 52.49527,
+               "longitude": 4.70986
+          },
+          {
+               "number": 10,
+               "latitude": 52.49290,
+               "longitude": 4.70594
+          },
+          {
+               "number": 11,
+               "latitude": 52.49041,
+               "longitude": 4.70207
+          },
+          {
+               "number": 12,
+               "latitude": 52.49124,
+               "longitude": 4.70741
+          },
+          {
+               "number": 13,
+               "latitude": 52.49283,
+               "longitude": 4.70747
+          },
+          {
+               "number": 14,
+               "latitude": 52.49420,
+               "longitude": 4.71098
+          },
+          {
+               "number": 15,
+               "latitude": 52.49038,
+               "longitude": 4.70676
+          },
+          {
+               "number": 16,
+               "latitude": 52.48992,
+               "longitude": 4.70403
+          },
+          {
+               "number": 17,
+               "latitude": 52.49113,
+               "longitude": 4.71013
+          },
+          {
+               "number": 18,
+               "latitude": 52.49574,
+               "longitude": 4.71093
+          }
+     ]
+}
