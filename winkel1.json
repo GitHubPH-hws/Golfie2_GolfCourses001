@@ -1,0 +1,56 @@
+{
+     "name": "Winkel, Regthuys - Tulp lus",
+     "isSelected": "N",
+     "latitude": 52.75297,
+     "longitude": 4.92016,
+     "latitudeDelta": 0.00906,
+     "longitudeDelta": 0.01116,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.74961,
+               "longitude": 4.91715
+          },
+          {
+               "number": 2,
+               "latitude": 52.75133,
+               "longitude": 4.92010
+          },
+          {
+               "number": 3,
+               "latitude": 52.75446,
+               "longitude": 4.92497
+          },
+          {
+               "number": 4,
+               "latitude": 52.75624,
+               "longitude": 4.92228
+          },
+          {
+               "number": 5,
+               "latitude": 52.75388,
+               "longitude": 4.92276
+          },
+          {
+               "number": 6,
+               "latitude": 52.75173,
+               "longitude": 4.92050
+          },
+          {
+               "number": 7,
+               "latitude": 52.75209,
+               "longitude": 4.91667
+          },
+          {
+               "number": 8,
+               "latitude": 52.75227,
+               "longitude": 4.91907
+          },
+          {
+               "number": 9,
+               "latitude": 52.75176,
+               "longitude": 4.91548
+          }
+     ]
+}
