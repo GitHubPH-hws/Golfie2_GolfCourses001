@@ -1,0 +1,101 @@
+{
+     "name": "Zaanse Golfclub, 18 holes",
+     "isSelected": "N",
+     "latitude": 52.47442,
+     "longitude": 4.86512,
+     "latitudeDelta": 0.01913,
+     "longitudeDelta": 0.02342,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.469147759520276,
+               "longitude": 4.862958789711416
+          },
+          {
+               "number": 2,
+               "latitude": 52.46901596129196,
+               "longitude": 4.861451873939854
+          },
+          {
+               "number": 3,
+               "latitude": 52.47017927435726,
+               "longitude": 4.855746654352487
+          },
+          {
+               "number": 4,
+               "latitude": 52.46957104380191,
+               "longitude": 4.86108033041902
+          },
+          {
+               "number": 5,
+               "latitude": 52.471703849534485,
+               "longitude": 4.857677216570688
+          },
+          {
+               "number": 6,
+               "latitude": 52.47268780844828,
+               "longitude": 4.862435742541748
+          },
+          {
+               "number": 7,
+               "latitude": 52.47526573356285,
+               "longitude": 4.869698048247771
+          },
+          {
+               "number": 8,
+               "latitude": 52.47463101758171,
+               "longitude": 4.870361214405038
+          },
+          {
+               "number": 9,
+               "latitude": 52.472887414468474,
+               "longitude": 4.8654440115875515
+          },
+          {
+               "number": 10,
+               "latitude": 52.473169510671774,
+               "longitude": 4.872899296951484
+          },
+          {
+               "number": 11,
+               "latitude": 52.47311575543865,
+               "longitude": 4.8739540275088595
+          },
+          {
+               "number": 12,
+               "latitude": 52.47630399205969,
+               "longitude": 4.872098138018112
+          },
+          {
+               "number": 13,
+               "latitude": 52.473589271313486,
+               "longitude": 4.873466113896392
+          },
+          {
+               "number": 14,
+               "latitude": 52.47308925714985,
+               "longitude": 4.87029019977764
+          },
+          {
+               "number": 15,
+               "latitude": 52.47324426921181,
+               "longitude": 4.863934729011565
+          },
+          {
+               "number": 16,
+               "latitude": 52.47173543430447,
+               "longitude": 4.858597223901408
+          },
+          {
+               "number": 17,
+               "latitude": 52.471334055990106,
+               "longitude": 4.860819730126819
+          },
+          {
+               "number": 18,
+               "latitude": 52.47086482742792,
+               "longitude": 4.8634522964784965
+          }
+     ]
+}
