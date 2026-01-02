@@ -2,5 +2,6 @@
   {"id": 1,"name": "Heiloo, GCH 1/9","file": "heiloo1"},
   {"id": 2,"name": "Heiloo, GCH Korte 3","file": "heiloo2"},
   {"id": 3,"name": "Warmond, Golfclub Kagerzoom", "file": "warmond1"},
-  {"id": 4,"name": "Heemskerkse Golfclub, par 3", "file": "heemskerk1"} 
+  {"id": 4,"name": "Heemskerkse Golfclub, par 3", "file": "heemskerk1"},
+  {"id": 5,"name": "Heemskerkse Golfclub, 18 holes", "file": "heemskerk2"}
 ]
