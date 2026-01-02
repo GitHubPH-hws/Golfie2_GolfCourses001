@@ -1,0 +1,56 @@
+{
+     "name": "Heiloo, GCH 1/9",
+     "isSelected": "N",
+     "latitude": 52.58337,
+     "longitude": 4.70928,
+     "latitudeDelta": 0.01,
+     "longitudeDelta": 0.01,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.58347,
+               "longitude": 4.70763
+          },
+          {
+               "number": 2,
+               "latitude": 52.58608,
+               "longitude": 4.70939
+          },
+          {
+               "number": 3,
+               "latitude": 52.58695,
+               "longitude": 4.71005
+          },
+          {
+               "number": 4,
+               "latitude": 52.58467,
+               "longitude": 4.71491
+          },
+          {
+               "number": 5,
+               "latitude": 52.58298,
+               "longitude": 4.71769
+          },
+          {
+               "number": 6,
+               "latitude": 52.58370,
+               "longitude": 4.71694
+          },
+          {
+               "number": 7,
+               "latitude": 52.58480,
+               "longitude": 4.71130
+          },
+          {
+               "number": 8,
+               "latitude": 52.58599,
+               "longitude": 4.71039
+          },
+          {
+               "number": 9,
+               "latitude": 52.58346,
+               "longitude": 4.71214
+          }
+     ]
+}

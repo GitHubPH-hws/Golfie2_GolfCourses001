@@ -1,0 +1,26 @@
+{
+     "name": "Heiloo, GCH Korte 3",
+     "isSelected": "N",
+     "latitude": 52.58330,
+     "longitude": 4.71440,
+     "latitudeDelta": 0.01,
+     "longitudeDelta": 0.01,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.58314,
+               "longitude": 4.71583
+          },
+          {
+               "number": 2,
+               "latitude": 52.58261,
+               "longitude": 4.71578
+          },
+          {
+               "number": 3,
+               "latitude": 52.58305,
+               "longitude": 4.71462
+          }
+     ]
+}
