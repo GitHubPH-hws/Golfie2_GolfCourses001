@@ -1,0 +1,101 @@
+{
+     "name": "Alkmaar, Sluispolder - 1/18",
+     "isSelected": "N",
+     "latitude": 52.65855,
+     "longitude": 4.73613,
+     "latitudeDelta": 0.01349,
+     "longitudeDelta": 0.01658,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.66184020780638,
+               "longitude": 4.736279980232071
+          },
+          {
+               "number": 2,
+               "latitude": 52.659015977737496,
+               "longitude": 4.737178256250519
+          },
+          {
+               "number": 3,
+               "latitude": 52.661882401539145,
+               "longitude": 4.740802278372909
+          },
+          {
+               "number": 4,
+               "latitude": 52.662369011531915,
+               "longitude": 4.735140961843122
+          },
+          {
+               "number": 5,
+               "latitude": 52.66070471288524,
+               "longitude": 4.735223831782097
+          },
+          {
+               "number": 6,
+               "latitude": 52.65786791109041,
+               "longitude": 4.736451447625818
+          },
+          {
+               "number": 7,
+               "latitude": 52.65979277744041,
+               "longitude": 4.733956858494636
+          },
+          {
+               "number": 8,
+               "latitude": 52.65807110672515,
+               "longitude": 4.7346565157821034
+          },
+          {
+               "number": 9,
+               "latitude": 52.6575360392849,
+               "longitude": 4.737018150851087
+          },
+          {
+               "number": 10,
+               "latitude": 52.6558325884339,
+               "longitude": 4.737908563314485
+          },
+          {
+               "number": 11,
+               "latitude": 52.65251949893467,
+               "longitude": 4.73582556918745
+          },
+          {
+               "number": 12,
+               "latitude": 52.65527238548133,
+               "longitude": 4.732151451067936
+          },
+          {
+               "number": 13,
+               "latitude": 52.65675733403804,
+               "longitude": 4.72953294917832
+          },
+          {
+               "number": 14,
+               "latitude": 52.653522193389165,
+               "longitude": 4.735464641410186
+          },
+          {
+               "number": 15,
+               "latitude": 52.65473878999954,
+               "longitude": 4.734679903384969
+          },
+          {
+               "number": 16,
+               "latitude": 52.656966170490826,
+               "longitude": 4.731321721974684
+          },
+          {
+               "number": 17,
+               "latitude": 52.65535045356826,
+               "longitude": 4.735677221505013
+          },
+          {
+               "number": 18,
+               "latitude": 52.65735815142847,
+               "longitude": 4.738908741238871
+          }
+     ]
+}
