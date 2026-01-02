@@ -1,0 +1,56 @@
+{
+     "name": "Winkel, Regthuys - Dijk lus",
+     "isSelected": "N",
+     "latitude": 52.75555,
+     "longitude": 4.91500,
+     "latitudeDelta": 0.01,
+     "longitudeDelta": 0.01232,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.75569,
+               "longitude": 4.91296
+          },
+          {
+               "number": 2,
+               "latitude": 52.75565,
+               "longitude": 4.91114
+          },
+          {
+               "number": 3,
+               "latitude": 52.75550,
+               "longitude": 4.91419
+          },
+          {
+               "number": 4,
+               "latitude": 52.75779,
+               "longitude": 4.91697
+          },
+          {
+               "number": 5,
+               "latitude": 52.75362,
+               "longitude": 4.91586
+          },
+          {
+               "number": 6,
+               "latitude": 52.75757,
+               "longitude": 4.91783
+          },
+          {
+               "number": 7,
+               "latitude": 52.75662,
+               "longitude": 4.91911
+          },
+          {
+               "number": 8,
+               "latitude": 52.75464,
+               "longitude": 4.91746
+          },
+          {
+               "number": 9,
+               "latitude": 52.75247,
+               "longitude": 4.91616
+          }
+     ]
+}
