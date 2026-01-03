@@ -1,0 +1,56 @@
+{
+     "name": "Spaarnwoude, C-Holes",
+     "isSelected": "N",
+     "latitude": 52.424435711321536,
+     "longitude": 4.68934930068975,
+     "latitudeDelta": 0.01588381917999726,
+     "longitudeDelta": 0.019424252452053814,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.427005083201514,
+               "longitude": 4.6979942669469255
+          },
+          {
+               "number": 2,
+               "latitude": 52.42357949903913,
+               "longitude": 4.694852775288459
+          },
+          {
+               "number": 3,
+               "latitude": 52.4224579365548,
+               "longitude": 4.685239689787394
+          },
+          {
+               "number": 4,
+               "latitude": 52.42064909661789,
+               "longitude": 4.684565329669351
+          },
+          {
+               "number": 5,
+               "latitude": 52.42427139525548,
+               "longitude": 4.681803840890662
+          },
+          {
+               "number": 6,
+               "latitude": 52.42240116843032,
+               "longitude": 4.68433006689219
+          },
+          {
+               "number": 7,
+               "latitude": 52.42133419508828,
+               "longitude": 4.6896873653768
+          },
+          {
+               "number": 8,
+               "latitude": 52.42459223405711,
+               "longitude": 4.694021739581514
+          },
+          {
+               "number": 9,
+               "latitude": 52.42668189331186,
+               "longitude": 4.697030052285493
+          }
+     ]
+}

@@ -1,0 +1,56 @@
+{
+     "name": "Spaarnwoude, D-Holes",
+     "isSelected": "N",
+     "latitude": 52.42385589148067,
+     "longitude": 4.69180730154285,
+     "latitudeDelta": 0.01645851315752367,
+     "longitudeDelta": 0.020126778466376116,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.42581468993229,
+               "longitude": 4.693622940184466
+          },
+          {
+               "number": 2,
+               "latitude": 52.42245398466141,
+               "longitude": 4.691570699114938
+          },
+          {
+               "number": 3,
+               "latitude": 52.42002961118904,
+               "longitude": 4.689775073627667
+          },
+          {
+               "number": 4,
+               "latitude": 52.41990539394763,
+               "longitude": 4.684321641543807
+          },
+          {
+               "number": 5,
+               "latitude": 52.41924383515237,
+               "longitude": 4.686526414111391
+          },
+          {
+               "number": 6,
+               "latitude": 52.41800848917479,
+               "longitude": 4.684684192737553
+          },
+          {
+               "number": 7,
+               "latitude": 52.419572934101744,
+               "longitude": 4.690136779103678
+          },
+          {
+               "number": 8,
+               "latitude": 52.425665952550254,
+               "longitude": 4.698319350733155
+          },
+          {
+               "number": 9,
+               "latitude": 52.430395143303684,
+               "longitude": 4.700083985545665
+          }
+     ]
+}

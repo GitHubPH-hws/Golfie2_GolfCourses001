@@ -1,0 +1,56 @@
+{
+     "name": "Spaarnwoude, F-Holes",
+     "isSelected": "N",
+     "latitude": 52.42896100394491,
+     "longitude": 4.699817254918634,
+     "latitudeDelta": 0.004406755759660541,
+     "longitudeDelta": 0.0053895554559657555,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 52.42865103743814,
+               "longitude": 4.700369551924067
+          },
+          {
+               "number": 2,
+               "latitude": 52.42745242509342,
+               "longitude": 4.70001330390331
+          },
+          {
+               "number": 3,
+               "latitude": 52.428375774388485,
+               "longitude": 4.701420278442478
+          },
+          {
+               "number": 4,
+               "latitude": 52.428473168709175,
+               "longitude": 4.7018803753229745
+          },
+          {
+               "number": 5,
+               "latitude": 52.42697193380475,
+               "longitude": 4.699603232844892
+          },
+          {
+               "number": 6,
+               "latitude": 52.4286207241272,
+               "longitude": 4.699591794644283
+          },
+          {
+               "number": 7,
+               "latitude": 52.42966446153771,
+               "longitude": 4.700524795888719
+          },
+          {
+               "number": 8,
+               "latitude": 52.42950661468199,
+               "longitude": 4.701132020987905
+          },
+          {
+               "number": 9,
+               "latitude": 52.430677183373504,
+               "longitude": 4.701073370397684
+          }
+     ]
+}
