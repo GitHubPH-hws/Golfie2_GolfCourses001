@@ -7,5 +7,11 @@
   {"id": 6,"name": "Winkel, Regthuys - Tulp lus", "file": "winkel1"},
   {"id": 7,"name": "Winkel, Regthuys - Dijk lus", "file": "winkel2"},
   {"id": 8,"name": "Alkmaar, Sluispolder - 1/18", "file": "alkmaar1"},
-  {"id": 9,"name": "Zaanse Golfclub, 18 holes", "file": "zaandam1"}
+  {"id": 9,"name": "Zaanse Golfclub, 18 holes", "file": "zaandam1"},
+  {"id":10,"name": "Spaarnwoude, A-Holes", "file": "spaarnwoude1"},
+  {"id":11,"name": "Spaarnwoude, B-Holes", "file": "spaarnwoude2"},
+  {"id":12,"name": "Spaarnwoude, C-Holes", "file": "spaarnwoude3"},
+  {"id":13,"name": "Spaarnwoude, D-Holes", "file": "spaarnwoude4"},
+  {"id":14,"name": "Spaarnwoude, E-Holes", "file": "spaarnwoude5"},
+  {"id":15,"name": "Spaarnwoude, F-Holes", "file": "spaarnwoude6"}
 ]
