@@ -1,0 +1,101 @@
+{
+     "name": "Texelse golfbaan, 1/18",
+     "isSelected": "N",
+     "latitude": 53.14920,
+     "longitude": 4.84865,
+     "latitudeDelta": 0.01142,
+     "longitudeDelta": 0.03564,
+     "selectedHole": 0,
+     "golfHoles": [
+          {
+               "number": 1,
+               "latitude": 53.15031,
+               "longitude": 4.85322
+          },
+          {
+               "number": 2,
+               "latitude": 53.14841,
+               "longitude": 4.84945
+          },
+          {
+               "number": 3,
+               "latitude": 53.15081,
+               "longitude": 4.85178
+          },
+          {
+               "number": 4,
+               "latitude": 53.15312,
+               "longitude": 4.84566
+          },
+          {
+               "number": 5,
+               "latitude": 53.15459,
+               "longitude": 4.84277
+          },
+          {
+               "number": 6,
+               "latitude": 53.15321,
+               "longitude": 4.84365
+          },
+          {
+               "number": 7,
+               "latitude": 53.14902,
+               "longitude": 4.84836
+          },
+          {
+               "number": 8,
+               "latitude": 53.14936,
+               "longitude": 4.85101
+          },
+          {
+               "number": 9,
+               "latitude": 53.14749,
+               "longitude": 4.85266
+          },
+          {
+               "number": 10,
+               "latitude": 53.14631,
+               "longitude": 4.85735
+          },
+          {
+               "number": 11,
+               "latitude": 53.14467,
+               "longitude": 4.85401
+          },
+          {
+               "number": 12,
+               "latitude": 53.14413,
+               "longitude": 4.85371
+          },
+          {
+               "number": 13,
+               "latitude": 53.14622,
+               "longitude": 4.84868
+          },
+          {
+               "number": 14,
+               "latitude": 53.14553,
+               "longitude": 4.85509
+          },
+          {
+               "number": 15,
+               "latitude": 53.14739,
+               "longitude": 4.84761
+          },
+          {
+               "number": 16,
+               "latitude": 53.14521,
+               "longitude": 4.84838
+          },
+          {
+               "number": 17,
+               "latitude": 53.14783,
+               "longitude": 4.84707
+          },
+          {
+               "number": 18,
+               "latitude": 53.14611,
+               "longitude": 4.85411
+          }
+     ]
+}
